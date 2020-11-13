@@ -42,7 +42,7 @@
 
 
 # 実装予定機能
-
+スマートフォンにも対応
 
 
 # ER図
@@ -81,9 +81,6 @@
 
 ### Association
 
-- has_many :reservations
-- has_many :shop_genre
-- has_many :shops, through: shop_genre
-
+- 
 
 
